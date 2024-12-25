@@ -13,4 +13,4 @@ A Bash script to analyze server performance stats on any Linux system.
 ## Usage
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/server-stats.git
+   https://github.com/Echezonac/Server-Performance-Stats.git
